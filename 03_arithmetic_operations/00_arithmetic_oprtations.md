@@ -18,4 +18,4 @@ One that you may find useful is: std::pow(base, exponent).
      
 For Example
 
-``` std::pow(3,5) ```
+```std::pow(3,5)```
