@@ -37,3 +37,13 @@ int main()
     
     return 0;
 }
+
+
+
+/*
+
+OUTPUT CONSOLE
+
+A == C is True (B == D) is False (B > D) is True (A ==C) && (B == D) is False (A ==C) && (B > D) is True (A ==C) || (B == D) is True (A ==C) || (B > D) is True A < B is False !(A < B) is True A == C is True !(A == C) is False
+
+*/
