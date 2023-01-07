@@ -4,7 +4,7 @@ The form for each is:
 Incrementing
 
 * prefix: ++a
-* postfix: a++ /
+* postfix: a++ \
 Decrementing
 
 * prefix: --a
