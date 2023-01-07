@@ -61,3 +61,5 @@ Executing the file on a compiler
 
 The first statement compiles the code and names the executable file main.out. Then main.out is executed using an input file called "input.txt".
 */
+
+// NOTE: So, we now know that std::cin will not retrieve strings that have a space in them. It will see the space as the end of the input. We will obviously need a method to enter strings.
