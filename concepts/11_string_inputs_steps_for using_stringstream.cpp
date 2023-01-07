@@ -15,7 +15,7 @@ std::stringstream(stringVariable) >> numericVariable ;
 
 #include <iostream>
 #include <string>
-#inckude <sstream>
+#include <sstream>
 
 int main()
 {
