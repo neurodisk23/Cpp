@@ -11,11 +11,9 @@ When doing math operations you may need to include the cmath library, it contain
 
 One that you may find useful is: std::pow(base, exponent).
 
-```
-#include<cmath>  ```
-
-``` std::pow(base, exponent) ```
+```#include<cmath>  ```
+```std::pow(base, exponent)```
      
-For Example
+ For Example
 
 ```std::pow(3,5)```
