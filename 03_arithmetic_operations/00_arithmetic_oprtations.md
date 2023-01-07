@@ -18,9 +18,10 @@ One that you may find useful is: std::pow(base, exponent).
 
 ```std::pow(3,5) ;```
 
- ```#include<cmath>``` /
+ ```#include<cmath>``` \
 
  pi is equal to M_PI
-M_PI = 3.14159265358979323846
+ 
+```M_PI = 3.14159265358979323846```
 
 [More Details](https://cplusplus.com/doc/tutorial/operators/) 
