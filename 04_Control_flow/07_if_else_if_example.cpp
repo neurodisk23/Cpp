@@ -33,10 +33,10 @@ int main()
 }
 
 
-// OUTPUT
+// OUTPUT when i guesssed 21
 
 /*
 
-This program checks the value of a. There is not much to say about a
+Guess a number between 0 - 100 You guessed: 21 Your guess is too low.
 
 */
