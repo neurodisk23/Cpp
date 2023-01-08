@@ -33,7 +33,7 @@ int main()
 }
 
 
-// OUTPUT when i guesssed 21
+// OUTPUT when I guesssed 21
 
 /*
 
