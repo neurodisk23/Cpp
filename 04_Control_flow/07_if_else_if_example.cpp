@@ -31,3 +31,12 @@ int main()
     
     return 0;
 }
+
+
+// OUTPUT
+
+/*
+
+This program checks the value of a. There is not much to say about a
+
+*/
