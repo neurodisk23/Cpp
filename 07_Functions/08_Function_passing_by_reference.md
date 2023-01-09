@@ -32,3 +32,8 @@ void increment(int &input)//Note the addition of '&'
     std::cout<<"In the function call a = "<<input<<"\n";
 }
 ```
+
+
+Console Output 
+
+Before the function call a = 34 In the function call a = 35 After the function call a = 35
