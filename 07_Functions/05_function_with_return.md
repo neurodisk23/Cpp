@@ -31,7 +31,7 @@ int calculateSum(int m1, int m2)
 /*Goal: practice returning values from functions*/
 
 #include<iostream>
-usingnamespacestd;
+using namespace std;
 
 floatadd( float m1,float m2);
 floatsub( float m1,float m2);
