@@ -49,12 +49,15 @@ cout<<m1<<"+"<<m2<<" = "<<answer<<"\n";
 cout<<m1<<"-"<<m2<<" = "<<sub(m1,m2)<<"\n";
 cout<<m1<<"*"<<m2<<" = "<<mult(m1,m2)<<"\n";
 cout<<m1<<"/"<<m2<<" = "<<div(m1,m2)<<"\n";
-return0;
+return 0;
 }
+
+
 float add(float m1,float m2)
 {
 return m1+m2;
 }
+
 float sub(float m1,float m2)
 {
 return m1-m2; 
