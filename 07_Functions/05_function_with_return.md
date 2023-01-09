@@ -29,32 +29,35 @@ int calculateSum(int m1, int m2)
 
 ```
 /*Goal: practice returning values from functions*/
+
 #include<iostream>
 usingnamespacestd;
-floatadd(floatm1,floatm2);
-floatsub(floatm1,floatm2);
-floatmult(floatm1,floatm2);
-floatdiv(floatm1,floatm2);
-intmain()
+
+floatadd( float m1,float m2);
+floatsub( float m1,float m2);
+floatmult( float m1,float m2);
+floatdiv( float m1,float m2);
+
+int main()
 {
-floatm1=4.0;
-floatm2=3.5;
-floatanswer;
+float m1=4.0;
+float m2=3.5;
+float answer;
     
-answer=add(m1,m2);
+answer = add(m1,m2);
 cout<<m1<<"+"<<m2<<" = "<<answer<<"\n";
 cout<<m1<<"-"<<m2<<" = "<<sub(m1,m2)<<"\n";
 cout<<m1<<"*"<<m2<<" = "<<mult(m1,m2)<<"\n";
 cout<<m1<<"/"<<m2<<" = "<<div(m1,m2)<<"\n";
 return0;
 }
-floatadd(floatm1,floatm2)
+float add(float m1,float m2)
 {
-returnm1+m2;
+return m1+m2;
 }
-floatsub(floatm1,floatm2)
+float sub(float m1,float m2)
 {
-returnm1-m2;
+return m1-m2;
 ```
 
 ### Console Output
