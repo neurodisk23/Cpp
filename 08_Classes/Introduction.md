@@ -28,7 +28,7 @@ That sounds bad.... we have a data type with data that we can't access. But, rem
 **We can use functions to access the data in a class.**
 
 Functions that access and/or modify data values in classes are called mutators.
-Check this page to learn more about Mutators
+Check this page to learn more about [Mutators](https://en.wikipedia.org/wiki/Mutator_method)
 
 Now let's add the setName function (functions in classes are also called methods) to our Student class. Recall the default for members in a class is private. We want the access functions to be public.
 So we add the keyword "public" and all members listed after it are accessible:
