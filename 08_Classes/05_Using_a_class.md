@@ -99,3 +99,7 @@ int main()
     return 0; 
 }
 ```
+
+Console Output 
+
+integer1 = 4 float1 = 4.333 Using the Student::print function Student1 = Catherine Gamboa 54345 2017 Using the student access functions Student1 name = Catherine Gamboa Student1 ID = 54345 Student1 Grad Date = 2017
