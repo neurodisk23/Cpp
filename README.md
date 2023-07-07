@@ -2,4 +2,9 @@
 
 ### README coming soon
 
-# Last updated : 10th Jan 2023
+# Last updated : 7th July 2023
+
+### Tips and Tricks 
+
+* system(pause) ;  this will add a delay to the code and then stop, won't stop abruptly
+     
